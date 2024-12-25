@@ -1,0 +1,2 @@
+# Tailwind CSS Gradient Rendering Issue
+This repository demonstrates a potential bug in Tailwind CSS gradient rendering where the gradient might not render correctly or appear as expected due to similar 'from' and 'to' colors or conflicting properties. The issue occurs when the colors specified for the gradient are too close to each other, resulting in an almost invisible gradient or a distorted visual effect.  The `bug.js` file contains the problematic code and `bugSolution.js` provides a solution to mitigate the issue.
